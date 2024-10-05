@@ -14,13 +14,11 @@ The following **optional** features are implemented:
 - [x] User can delete an item by long pressing on the item  
 - [x] User can open an item's URL by clicking on the item  
 
-
-## Video Walkthrough  
+## Walkthrough GIF
 Here's a walkthrough of implemented user stories:  
-<img src='https://github.com/SamiKuloglu01/Wishlist/gifs/CodePathMail_VideoGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  
+![Wishlist Walkthrough](gifs/Wishlist_VideoGif.gif)
 
 GIF created with ezgif.com
-.  
 
 ## License  
 Copyright 2024 Sami Kuloglu  
