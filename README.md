@@ -17,7 +17,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough  
 Here's a walkthrough of implemented user stories:  
-<img src='https://github.com/SamiKuloglu01/Wishlist/gif/Wishlist_VideoGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  
+<img src='gifs/Wishlist_VideoGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  
 
 GIF created with ezgif.com
 .  
